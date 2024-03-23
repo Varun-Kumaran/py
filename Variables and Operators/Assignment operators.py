@@ -1,0 +1,16 @@
+a=int(input("Enter number 1:"))
+b=a+5
+print("number +=5:",b)
+c=a-5
+print("number -=5:",c)
+d=a*5
+print("number *=5:",d)
+e=a/5
+print("number /=5:",e)
+f=a%5
+print("number %=5:",f)
+g=a**5
+print("number **=5:",g)
+h=a//5
+print("number //=5:",h)
+print("number =",a)
